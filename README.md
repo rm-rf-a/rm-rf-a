@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안뇽~
 
 <!--
 **rm-rf-a/rm-rf-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
